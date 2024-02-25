@@ -1,5 +1,5 @@
 # ¡Hola, soy [TuNombre]! 🌱
-![Groot](https://github.com/tuusuario/tu-repositorio/blob/main/groot.jpg)
+![Groot](https://wall.alphacoders.com/big.php?i=819995)
 
 Soy Groot. Bueno, no exactamente, pero me encanta el tema de Groot.
 
