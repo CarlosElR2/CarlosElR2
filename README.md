@@ -1,10 +1,8 @@
-# ¡Hola, soy [TuNombre]! 🌱
+# ¡Hola, soy [Carlos]! 🌱
 ![Groot](https://media0.giphy.com/media/7vq2X1Ep13I4/giphy.gif)
 
-Soy Groot. Bueno, no exactamente, pero me encanta el tema de Groot.
-
 ## Acerca de mí
-Soy un entusiasta del código y un amante de los árboles, ¡así que me encanta Groot! Siempre estoy aprendiendo y creciendo (como un árbol, ¡sabes a lo que me refiero!). ¡Bienvenido a mi rincón de GitHub!
+hola soy estudiante y voy comenzando en esto y me gustaria aprender mas.
 
 ## Mis tecnologías preferidas
 - GrootScript 🌳
@@ -12,7 +10,5 @@ Soy un entusiasta del código y un amante de los árboles, ¡así que me encanta
 - Raíces de Python 🌱
 
 ## Mis proyectos
-- [Proyecto Grootify](https://github.com/tunombre/proyecto-grootify) - Transformando el mundo en árboles, un commit a la vez.
-![Grootify](https://github.com/tuusuario/tu-repositorio/blob/main/grootify.png)
-
+- primer proyecto el ahorcado en java 
 ¡Gracias por visitar mi perfil! 🌲
